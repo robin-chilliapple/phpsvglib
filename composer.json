@@ -1,0 +1,8 @@
+{
+    "name": "rocky/phpsvg",
+    "autoload": {
+        "psr-0" : {
+            "Rocky\\PHPSVG" : "src"
+        }
+    }
+}
